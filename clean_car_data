@@ -1,0 +1,725 @@
+,name,company,year,Price,kms_driven,fuel_type
+0,Hyundai Santro Xing,Hyundai,2007-01-01,80000,"45,000 kms",Petrol
+1,Mahindra Jeep CL550,Mahindra,2006-01-01,425000,40 kms,Diesel
+2,Hyundai Grand i10,Hyundai,2014-01-01,325000,"28,000 kms",Petrol
+3,Ford EcoSport Titanium,Ford,2014-01-01,575000,"36,000 kms",Diesel
+4,Ford Figo,Ford,2012-01-01,175000,"41,000 kms",Diesel
+5,Hyundai Eon,Hyundai,2013-01-01,190000,"25,000 kms",Petrol
+6,Ford EcoSport Ambiente,Ford,2016-01-01,830000,"24,530 kms",Diesel
+7,Maruti Suzuki Alto,Maruti,2015-01-01,250000,"60,000 kms",Petrol
+8,Skoda Fabia Classic,Skoda,2010-01-01,182000,"60,000 kms",Petrol
+9,Maruti Suzuki Stingray,Maruti,2015-01-01,315000,"30,000 kms",Petrol
+10,Hyundai Elite i20,Hyundai,2014-01-01,415000,"32,000 kms",Petrol
+11,Mahindra Scorpio SLE,Mahindra,2015-01-01,320000,"48,660 kms",Diesel
+12,Audi A8,Audi,2017-01-01,1000000,"4,000 kms",Petrol
+13,Audi Q7,Audi,2014-01-01,500000,"16,934 kms",Diesel
+14,Mahindra Scorpio S10,Mahindra,2016-01-01,350000,"43,000 kms",Diesel
+15,Maruti Suzuki Alto,Maruti,2014-01-01,160000,"35,550 kms",Petrol
+16,Mahindra Scorpio S10,Mahindra,2016-01-01,310000,"39,522 kms",Diesel
+17,Maruti Suzuki Alto,Maruti,2015-01-01,75000,"39,000 kms",Petrol
+18,Hyundai i20 Sportz,Hyundai,2012-01-01,100000,"55,000 kms",Petrol
+19,Maruti Suzuki Alto,Maruti,2017-01-01,190000,"72,000 kms",Petrol
+20,Maruti Suzuki Vitara,Maruti,2016-01-01,290000,"15,975 kms",Diesel
+21,Maruti Suzuki Alto,Maruti,2008-01-01,95000,"70,000 kms",Petrol
+22,Mahindra Bolero DI,Mahindra,2017-01-01,180000,"23,452 kms",Diesel
+23,Maruti Suzuki Swift,Maruti,2014-01-01,385000,"35,522 kms",Diesel
+24,Mahindra Scorpio S10,Mahindra,2015-01-01,250000,"48,508 kms",Diesel
+25,Maruti Suzuki Swift,Maruti,2017-01-01,180000,"15,487 kms",Petrol
+26,Maruti Suzuki Wagon,Maruti,2013-01-01,105000,"39,000 kms",Petrol
+27,Maruti Suzuki Wagon,Maruti,2013-01-01,105000,"39,000 kms",Petrol
+28,Toyota Innova 2.0,Toyota,2012-01-01,650000,"82,000 kms",Diesel
+29,Renault Lodgy 85,Renault,2018-01-01,689999,"20,000 kms",Diesel
+30,Skoda Yeti Ambition,Skoda,2012-01-01,448000,"68,000 kms",Diesel
+31,Maruti Suzuki Baleno,Maruti,2017-01-01,549000,"32,000 kms",Diesel
+32,Renault Duster 110,Renault,2012-01-01,501000,"38,000 kms",Diesel
+33,Renault Duster 85,Renault,2013-01-01,489999,"27,000 kms",Diesel
+34,Honda City 1.5,Honda,2011-01-01,280000,"33,000 kms",Petrol
+35,Maruti Suzuki Dzire,Maruti,2013-01-01,349999,"46,000 kms",Diesel
+36,Honda Amaze,Honda,2013-01-01,284999,"46,000 kms",Diesel
+37,Honda Amaze 1.5,Honda,2015-01-01,345000,"36,000 kms",Diesel
+38,Honda City,Honda,2015-01-01,499999,"55,000 kms",Petrol
+39,Datsun Redi GO,Datsun,2017-01-01,235000,"16,000 kms",Petrol
+40,Maruti Suzuki SX4,Maruti,2010-01-01,249999,"36,000 kms",Petrol
+41,Mitsubishi Pajero Sport,Mitsubishi,2015-01-01,1475000,"47,000 kms",Diesel
+42,Mahindra Scorpio S10,Mahindra,2015-01-01,395000,"35,000 kms",Diesel
+43,Maruti Suzuki Swift,Maruti,2017-01-01,220000,"30,874 kms",Petrol
+44,Honda City ZX,Honda,2017-01-01,170000,"15,000 kms",Diesel
+45,Maruti Suzuki Wagon,Maruti,2013-01-01,85000,"29,685 kms",Petrol
+46,Tata Indigo eCS,Tata,2017-01-01,200000,"1,30,000 kms",Diesel
+47,Mahindra Scorpio SLE,Mahindra,2012-01-01,570000,"19,000 kms",Diesel
+48,Volkswagen Polo Highline,Volkswagen,2014-01-01,315000,"60,000 kms",Petrol
+49,Chevrolet Spark LS,Chevrolet,2010-01-01,110000,"41,000 kms",Petrol
+50,Renault Duster 110PS,Renault,2012-01-01,501000,"35,000 kms",Diesel
+51,Honda City,Honda,2015-01-01,448999,"54,000 kms",Petrol
+52,Mini Cooper S,Mini,2013-01-01,1891111,"13,000 kms",Petrol
+53,Skoda Fabia 1.2L,Skoda,2011-01-01,159500,"38,200 kms",Diesel
+54,Honda Amaze,Honda,2015-01-01,344999,"22,000 kms",Petrol
+55,Renault Duster,Renault,2014-01-01,449999,"50,000 kms",Diesel
+56,Mini Cooper S,Mini,2013-01-01,1891111,"13,500 kms",Petrol
+57,Mahindra Scorpio S4,Mahindra,2015-01-01,865000,"30,000 kms",Diesel
+58,Mahindra Scorpio VLX,Mahindra,2014-01-01,699000,"50,000 kms",Diesel
+59,Mahindra Quanto C8,Mahindra,2013-01-01,375000,"20,000 kms",Diesel
+60,Ford EcoSport,Ford,2017-01-01,489999,"39,000 kms",Petrol
+61,Honda Brio,Honda,2012-01-01,224999,"30,000 kms",Petrol
+62,Volkswagen Vento Highline,Volkswagen,2019-01-01,1200000,"3,600 kms",Diesel
+63,Hyundai i20 Magna,Hyundai,2009-01-01,195000,"32,000 kms",Petrol
+64,Toyota Corolla Altis,Toyota,2010-01-01,351000,"38,000 kms",Diesel
+65,Hyundai Verna Transform,Hyundai,2008-01-01,160000,"45,000 kms",Petrol
+66,Toyota Corolla Altis,Toyota,2009-01-01,240000,"35,000 kms",Petrol
+67,Honda City 1.5,Honda,2005-01-01,90000,"50,000 kms",Petrol
+68,Skoda Fabia 1.2L,Skoda,2011-01-01,155000,"45,863 kms",Diesel
+69,BMW 3 Series,BMW,2011-01-01,600000,"60,500 kms",Petrol
+70,Maruti Suzuki A,Maruti,2011-01-01,189500,"12,500 kms",Petrol
+71,Toyota Etios GD,Toyota,2013-01-01,350000,"60,000 kms",Diesel
+72,Ford Figo Diesel,Ford,2012-01-01,210000,"35,000 kms",Diesel
+73,Maruti Suzuki Swift,Maruti,2014-01-01,390000,"35,000 kms",Petrol
+74,Chevrolet Beat LT,Chevrolet,2012-01-01,135000,"45,000 kms",Diesel
+75,BMW 7 Series,BMW,2009-01-01,1600000,"35,000 kms",Petrol
+76,Mahindra XUV500 W8,Mahindra,2013-01-01,701000,"38,000 kms",Diesel
+77,Hyundai i10 Magna,Hyundai,2014-01-01,265000,"18,000 kms",Petrol
+78,Hyundai Verna Fluidic,Hyundai,2015-01-01,525000,"35,000 kms",Diesel
+79,Maruti Suzuki Swift,Maruti,2013-01-01,372000,"13,349 kms",Petrol
+80,Maruti Suzuki Ertiga,Maruti,2016-01-01,635000,"29,000 kms",Petrol
+81,Ford EcoSport Titanium,Ford,2014-01-01,550000,"44,000 kms",Diesel
+82,Maruti Suzuki Ertiga,Maruti,2016-01-01,575000,"29,000 kms",Petrol
+83,Maruti Suzuki Ertiga,Maruti,2013-01-01,485000,"42,000 kms",Diesel
+84,Maruti Suzuki Alto,Maruti,2012-01-01,155000,"14,000 kms",Petrol
+85,Hyundai Grand i10,Hyundai,2014-01-01,345000,"49,000 kms",Diesel
+86,Honda Amaze 1.2,Honda,2014-01-01,325000,"42,000 kms",Petrol
+87,Hyundai i20 Asta,Hyundai,2012-01-01,329500,"36,200 kms",Diesel
+88,Ford Figo Diesel,Ford,2014-01-01,195000,"50,000 kms",Diesel
+89,Maruti Suzuki Eeco,Maruti,2015-01-01,251111,"55,000 kms",Petrol
+90,Maruti Suzuki Ertiga,Maruti,2014-01-01,569999,"45,000 kms",Petrol
+91,Maruti Suzuki Esteem,Maruti,2007-01-01,69999,"51,000 kms",Petrol
+92,Maruti Suzuki Ritz,Maruti,2014-01-01,299999,"19,000 kms",Petrol
+93,Maruti Suzuki Dzire,Maruti,2009-01-01,220000,"46,000 kms",Petrol
+94,Maruti Suzuki Ritz,Maruti,2013-01-01,399999,"33,000 kms",Diesel
+95,Maruti Suzuki Dzire,Maruti,2015-01-01,450000,"1,04,000 kms",Diesel
+96,Toyota Etios Liva,Toyota,2014-01-01,270000,"55,000 kms",Petrol
+97,Hyundai i20 Sportz,Hyundai,2011-01-01,350000,"33,333 kms",Diesel
+98,Chevrolet Spark,Chevrolet,2012-01-01,158400,"33,600 kms",Petrol
+99,Maruti Suzuki Alto,Maruti,2017-01-01,350000,"5,600 kms",Petrol
+100,Nissan Micra XV,Nissan,2011-01-01,179000,"41,000 kms",Petrol
+101,Maruti Suzuki Swift,Maruti,2007-01-01,125000,"70,000 kms",Petrol
+102,Maruti Suzuki Alto,Maruti,2018-01-01,200000,"7,500 kms",Petrol
+103,Honda Amaze 1.5,Honda,2013-01-01,299000,"45,000 kms",Diesel
+104,Maruti Suzuki Alto,Maruti,2015-01-01,220000,"38,000 kms",Petrol
+105,Chevrolet Beat,Chevrolet,2015-01-01,150000,"30,000 kms",Petrol
+106,Honda City 1.5,Honda,2010-01-01,285000,"35,000 kms",Petrol
+107,Ford EcoSport Trend,Ford,2016-01-01,830000,"24,330 kms",Diesel
+108,Hyundai i20 Asta,Hyundai,2009-01-01,210000,"65,480 kms",Petrol
+109,Maruti Suzuki Swift,Maruti,2013-01-01,340000,"41,000 kms",Petrol
+110,Tata Indica V2,Tata,2006-01-01,90000,"20,000 kms",Petrol
+111,Hindustan Motors Ambassador,Hindustan,2000-01-01,70000,"2,00,000 kms",Diesel
+112,Toyota Corolla Altis,Toyota,2010-01-01,289999,"70,000 kms",Petrol
+113,Toyota Corolla Altis,Toyota,2012-01-01,349999,"59,000 kms",Petrol
+114,Toyota Innova 2.5,Toyota,2012-01-01,849999,"99,000 kms",Diesel
+115,Volkswagen Jetta Highline,Volkswagen,2014-01-01,749999,"46,000 kms",Diesel
+116,Volkswagen Polo Comfortline,Volkswagen,2015-01-01,399999,"2,800 kms",Petrol
+117,Volkswagen Polo,Volkswagen,2014-01-01,274999,"32,000 kms",Petrol
+118,Mahindra Scorpio,Mahindra,2015-01-01,984999,"22,000 kms",Diesel
+119,Nissan Sunny,Nissan,2012-01-01,224999,"45,000 kms",Petrol
+120,Hyundai Elite i20,Hyundai,2018-01-01,599999,"21,000 kms",Petrol
+121,Renault Kwid,Renault,2016-01-01,244999,"11,000 kms",Petrol
+122,Renault Duster,Renault,2013-01-01,399999,"41,000 kms",Diesel
+123,Renault Duster,Renault,2014-01-01,474999,"50,000 kms",Diesel
+124,Mahindra Scorpio VLX,Mahindra,2011-01-01,499999,"66,000 kms",Diesel
+125,Maruti Suzuki Alto,Maruti,2018-01-01,310000,"3,000 kms",Petrol
+126,Chevrolet Spark LT,Chevrolet,2010-01-01,85000,"45,000 kms",Petrol
+127,Datsun Redi GO,Datsun,2016-01-01,245000,"7,000 kms",Petrol
+128,Maruti Suzuki Swift,Maruti,2010-01-01,189500,"38,500 kms",Diesel
+129,Fiat Punto Emotion,Fiat,2012-01-01,169500,"37,200 kms",Diesel
+130,Maruti Suzuki Swift,Maruti,2010-01-01,159500,"43,200 kms",Diesel
+131,Toyota Etios GD,Toyota,2013-01-01,275000,"24,800 kms",Petrol
+132,Hyundai i20 Sportz,Hyundai,2014-01-01,370000,"60,000 kms",Diesel
+133,Hyundai i10 Sportz,Hyundai,2010-01-01,168000,"45,872 kms",Petrol
+134,Chevrolet Beat LT,Chevrolet,2011-01-01,150000,"40,000 kms",Diesel
+135,Chevrolet Beat LS,Chevrolet,2011-01-01,145000,"45,000 kms",Diesel
+136,Chevrolet Beat LT,Chevrolet,2012-01-01,98500,"38,000 kms",Diesel
+137,Tata Indigo CS,Tata,2011-01-01,85000,"11,400 kms",Diesel
+138,Toyota Corolla Altis,Toyota,2015-01-01,575000,"42,000 kms",Petrol
+139,Honda City 1.5,Honda,2014-01-01,549000,"39,000 kms",Petrol
+140,Maruti Suzuki Swift,Maruti,2011-01-01,209000,"47,000 kms",Diesel
+141,Hyundai Eon Era,Hyundai,2013-01-01,185000,"27,000 kms",Petrol
+142,Mahindra Scorpio S10,Mahindra,2015-01-01,900000,"97,200 kms",Diesel
+143,Mahindra XUV500,Mahindra,2014-01-01,699999,"52,000 kms",Diesel
+144,Ford Fiesta,Ford,2011-01-01,274999,"55,000 kms",Diesel
+145,Honda City,Honda,2015-01-01,599999,"30,000 kms",Diesel
+146,Maruti Suzuki Wagon,Maruti,2012-01-01,199999,"44,000 kms",Petrol
+147,Honda City,Honda,2014-01-01,544999,"45,000 kms",Diesel
+148,Hyundai i20,Hyundai,2009-01-01,199000,"31,000 kms",Petrol
+149,Tata Indigo eCS,Tata,2016-01-01,320000,"1,75,430 kms",Diesel
+150,Hyundai Fluidic Verna,Hyundai,2015-01-01,540000,"38,000 kms",Diesel
+151,Mahindra Quanto C8,Mahindra,2013-01-01,340000,"37,000 kms",Diesel
+152,Fiat Petra ELX,Fiat,2008-01-01,75000,"65,000 kms",Petrol
+153,Hyundai Santro Xing,Hyundai,2005-01-01,49000,"7,500 kms",Petrol
+154,Maruti Suzuki Ciaz,Maruti,2016-01-01,700000,"3,350 kms",Petrol
+155,Maruti Suzuki Zen,Maruti,2000-01-01,55000,"60,000 kms",Petrol
+156,Hyundai Creta 1.6,Hyundai,2017-01-01,895000,"32,000 kms",Petrol
+157,Mahindra Scorpio SLX,Mahindra,2007-01-01,355000,"75,000 kms",Diesel
+158,Mahindra Scorpio SLE,Mahindra,2012-01-01,565000,"62,000 kms",Diesel
+159,Toyota Innova 2.5,Toyota,2006-01-01,365000,"73,000 kms",Diesel
+160,Maruti Suzuki Alto,Maruti,2011-01-01,145000,"41,000 kms",Petrol
+161,Maruti Suzuki Wagon,Maruti,2011-01-01,210000,"35,000 kms",Petrol
+162,Tata Nano Cx,Tata,2013-01-01,40000,"2,200 kms",Petrol
+163,Maruti Suzuki Alto,Maruti,2013-01-01,125000,"39,000 kms",Petrol
+164,Maruti Suzuki Wagon,Maruti,2009-01-01,135000,"45,000 kms",Petrol
+165,Maruti Suzuki Swift,Maruti,2006-01-01,135000,"45,000 kms",Petrol
+166,Tata Sumo Victa,Tata,2012-01-01,285000,"65,000 kms",Diesel
+167,Maruti Suzuki Wagon,Maruti,2010-01-01,145000,"54,870 kms",Petrol
+168,Maruti Suzuki Alto,Maruti,2010-01-01,135000,"34,580 kms",Petrol
+169,Volkswagen Passat Diesel,Volkswagen,2009-01-01,450000,"97,000 kms",Diesel
+170,Renault Scala RxL,Renault,2015-01-01,375000,"25,000 kms",Diesel
+171,Hyundai Grand i10,Hyundai,2014-01-01,365000,"20,000 kms",Petrol
+172,Hyundai i20 Active,Hyundai,2015-01-01,500000,"18,000 kms",Petrol
+173,Mahindra Xylo E4,Mahindra,2012-01-01,400000,"35,000 kms",Diesel
+174,Mahindra Jeep MM,Mahindra,2019-01-01,390000,60 kms,Diesel
+175,Mahindra Bolero SLE,Mahindra,2013-01-01,330000,"80,200 kms",Diesel
+176,Force Motors Force,Force,2015-01-01,580000,"3,200 kms",Diesel
+177,Maruti Suzuki SX4,Maruti,2012-01-01,265000,"46,000 kms",Diesel
+178,Mahindra Jeep CL550,Mahindra,2019-01-01,379000,"0,000 kms",Diesel
+179,Maruti Suzuki Alto,Maruti,2015-01-01,219000,"5,000 kms",Petrol
+180,Mahindra Jeep CL550,Mahindra,2018-01-01,385000,588 kms,Diesel
+181,Toyota Etios,Toyota,2011-01-01,275000,"36,000 kms",Diesel
+182,Volkswagen Polo,Volkswagen,2015-01-01,330000,"38,000 kms",Diesel
+183,Honda City ZX,Honda,2008-01-01,110000,"45,000 kms",Petrol
+184,Maruti Suzuki Wagon,Maruti,2006-01-01,80000,"71,200 kms",Petrol
+185,Honda City VX,Honda,2016-01-01,519000,"52,000 kms",Diesel
+186,Mahindra Thar CRDe,Mahindra,2016-01-01,730000,"29,000 kms",Diesel
+187,Audi A4 1.8,Audi,2009-01-01,699000,"47,000 kms",Petrol
+188,Mercedes Benz GLA,Mercedes,2015-01-01,2000000,"20,000 kms",Diesel
+189,Land Rover Freelander,Land,2015-01-01,2100000,"30,000 kms",Diesel
+190,Renault Kwid RXT,Renault,2017-01-01,340000,"5,000 kms",Petrol
+191,Tata Aria Pleasure,Tata,2014-01-01,390000,"35,000 kms",Diesel
+192,Mercedes Benz B,Mercedes,2014-01-01,1400000,"31,000 kms",Petrol
+193,Datsun GO T,Datsun,2016-01-01,245000,"7,000 kms",Petrol
+194,Tata Indigo eCS,Tata,2016-01-01,320000,"1,75,400 kms",Diesel
+195,Honda Jazz VX,Honda,2016-01-01,450000,"41,000 kms",Petrol
+196,Honda Amaze 1.2,Honda,2014-01-01,311000,"33,000 kms",Petrol
+197,Honda City,Honda,2012-01-01,399999,"45,000 kms",Petrol
+198,Honda City,Honda,2015-01-01,599999,"39,000 kms",Diesel
+199,Mahindra Scorpio S4,Mahindra,2015-01-01,855000,"30,000 kms",Diesel
+200,Hyundai i20 Active,Hyundai,2015-01-01,535000,"37,000 kms",Diesel
+201,Mini Cooper S,Mini,2013-01-01,1891111,"13,000 kms",Petrol
+202,Maruti Suzuki Ciaz,Maruti,2017-01-01,699000,"14,000 kms",Petrol
+203,Chevrolet Tavera Neo,Chevrolet,2013-01-01,375000,"55,000 kms",Diesel
+204,Hyundai Eon Sportz,Hyundai,2012-01-01,178000,"30,000 kms",Petrol
+205,Tata Sumo Gold,Tata,2013-01-01,300000,"50,000 kms",Diesel
+206,Maruti Suzuki Wagon,Maruti,2003-01-01,90000,"45,000 kms",Petrol
+207,Maruti Suzuki Esteem,Maruti,2006-01-01,95000,"45,000 kms",Petrol
+208,Maruti Suzuki Eeco,Maruti,2015-01-01,255000,"9,300 kms",Petrol
+209,Chevrolet Enjoy 1.4,Chevrolet,2013-01-01,245000,"55,000 kms",Diesel
+210,Maruti Suzuki Wagon,Maruti,2015-01-01,289999,"22,000 kms",Petrol
+211,Nissan Terrano XL,Nissan,2015-01-01,499999,"60,000 kms",Diesel
+212,Renault Duster 85,Renault,2014-01-01,489999,"59,000 kms",Diesel
+213,Renault Duster 85,Renault,2015-01-01,549999,"19,000 kms",Diesel
+214,Maruti Suzuki Dzire,Maruti,2013-01-01,380000,"30,000 kms",Petrol
+215,Renault Kwid RXT,Renault,2018-01-01,325000,"15,000 kms",Petrol
+216,Maruti Suzuki Maruti,Maruti,2003-01-01,57000,"56,758 kms",Petrol
+217,Renault Kwid 1.0,Renault,2018-01-01,349999,"10,000 kms",Petrol
+218,Renault Scala RxL,Renault,2014-01-01,349999,"49,000 kms",Diesel
+219,Hyundai Grand i10,Hyundai,2014-01-01,410000,"41,000 kms",Petrol
+220,Maruti Suzuki Swift,Maruti,2011-01-01,225000,"45,000 kms",Petrol
+221,Chevrolet Beat LS,Chevrolet,2010-01-01,120000,"43,000 kms",Petrol
+222,Hyundai Santro Xing,Hyundai,2000-01-01,59000,"56,450 kms",Petrol
+223,Chevrolet Beat LS,Chevrolet,2010-01-01,80000,"56,000 kms",Petrol
+224,Chevrolet Beat LS,Chevrolet,2015-01-01,220000,"32,700 kms",Petrol
+225,Ford EcoSport Titanium,Ford,2016-01-01,599000,"30,000 kms",Diesel
+226,Hyundai Accent GLX,Hyundai,2006-01-01,80000,"56,000 kms",Petrol
+227,Mahindra TUV300 T4,Mahindra,2016-01-01,675000,"9,000 kms",Diesel
+228,Tata Indica V2,Tata,2008-01-01,150000,"11,000 kms",Petrol
+229,Tata Indigo CS,Tata,2009-01-01,72500,"46,000 kms",Diesel
+230,Maruti Suzuki Swift,Maruti,2019-01-01,610000,73 kms,Petrol
+231,Mahindra Scorpio VLX,Mahindra,2004-01-01,230000,"1,60,000 kms",Diesel
+232,Honda Accord,Honda,2009-01-01,175000,"58,559 kms",Petrol
+233,Ford EcoSport Titanium,Ford,2014-01-01,520000,"57,000 kms",Diesel
+234,Maruti Suzuki Ertiga,Maruti,2015-01-01,524999,"50,000 kms",Diesel
+235,Honda Amaze,Honda,2014-01-01,299999,"37,000 kms",Petrol
+236,Maruti Suzuki Dzire,Maruti,2012-01-01,299999,"40,000 kms",Petrol
+237,Honda City,Honda,2011-01-01,284999,"55,000 kms",Petrol
+238,Mahindra Scorpio 2.6,Mahindra,2007-01-01,220000,"1,70,000 kms",Diesel
+239,Maruti Suzuki Dzire,Maruti,2014-01-01,424999,"55,000 kms",Diesel
+240,Honda City,Honda,2015-01-01,644999,"39,000 kms",Petrol
+241,Honda Mobilio,Honda,2014-01-01,399999,"44,000 kms",Petrol
+242,Toyota Corolla Altis,Toyota,2009-01-01,199999,"65,000 kms",Petrol
+243,Honda City,Honda,2014-01-01,584999,"39,000 kms",Petrol
+244,Skoda Laura,Skoda,2012-01-01,349999,"44,000 kms",Diesel
+245,Renault Duster,Renault,2015-01-01,449999,"49,000 kms",Diesel
+246,Maruti Suzuki Ertiga,Maruti,2018-01-01,799999,"9,000 kms",Diesel
+247,Maruti Suzuki Dzire,Maruti,2015-01-01,444999,"45,000 kms",Diesel
+248,Mahindra XUV500,Mahindra,2014-01-01,649999,"47,000 kms",Diesel
+249,Hyundai Verna Fluidic,Hyundai,2012-01-01,444999,"40,000 kms",Diesel
+250,Maruti Suzuki Vitara,Maruti,2016-01-01,689999,"29,000 kms",Diesel
+251,Maruti Suzuki Wagon,Maruti,2016-01-01,344999,"15,000 kms",Petrol
+252,Mahindra Scorpio,Mahindra,2015-01-01,944999,"45,000 kms",Diesel
+253,Honda Amaze,Honda,2014-01-01,274999,"35,000 kms",Petrol
+254,Mahindra XUV500,Mahindra,2013-01-01,689999,"80,000 kms",Diesel
+255,Mahindra Scorpio,Mahindra,2013-01-01,574999,"68,000 kms",Diesel
+256,Skoda Laura,Skoda,2013-01-01,374999,"50,000 kms",Diesel
+257,Volkswagen Polo,Volkswagen,2010-01-01,199999,"60,000 kms",Diesel
+258,Hyundai Elite i20,Hyundai,2016-01-01,549999,"9,000 kms",Petrol
+259,Tata Manza Aura,Tata,2012-01-01,130000,"72,000 kms",Diesel
+260,Chevrolet Sail UVA,Chevrolet,2013-01-01,210000,"60,000 kms",Petrol
+261,Hyundai Verna Fluidic,Hyundai,2013-01-01,401000,"45,000 kms",Diesel
+262,Audi A4 2.0,Audi,2012-01-01,1350000,"40,000 kms",Diesel
+263,Hyundai Elantra SX,Hyundai,2013-01-01,600000,"20,000 kms",Petrol
+264,Mahindra Scorpio VLX,Mahindra,2013-01-01,610000,"35,000 kms",Diesel
+265,Mahindra KUV100 K8,Mahindra,2016-01-01,400000,"20,000 kms",Diesel
+266,Hyundai Grand i10,Hyundai,2017-01-01,524999,"6,821 kms",Petrol
+267,Hyundai i20,Hyundai,2014-01-01,449999,"23,000 kms",Petrol
+268,Hyundai Eon,Hyundai,2014-01-01,174999,"14,000 kms",Petrol
+269,Hyundai i10,Hyundai,2012-01-01,244999,"38,000 kms",Petrol
+270,Hyundai i20 Active,Hyundai,2015-01-01,574999,"35,000 kms",Diesel
+271,Datsun Redi GO,Datsun,2017-01-01,244999,"22,000 kms",Petrol
+272,Toyota Etios Liva,Toyota,2011-01-01,239999,"41,000 kms",Petrol
+273,Hyundai Accent,Hyundai,2010-01-01,99999,"45,000 kms",Petrol
+274,Hyundai Verna,Hyundai,2014-01-01,489999,"44,000 kms",Diesel
+275,Maruti Suzuki Swift,Maruti,2013-01-01,324999,"45,000 kms",Diesel
+276,Toyota Fortuner,Toyota,2011-01-01,1074999,"52,000 kms",Diesel
+277,Hyundai i10 Sportz,Hyundai,2012-01-01,230000,"34,000 kms",Petrol
+278,Mahindra Bolero Power,Mahindra,2018-01-01,699000,"1,800 kms",Diesel
+279,Mahindra XUV500,Mahindra,2015-01-01,1000000,"15,000 kms",Diesel
+280,Honda City 1.5,Honda,2010-01-01,240000,"4,00,000 kms",Petrol
+281,Chevrolet Spark LT,Chevrolet,2009-01-01,110000,"44,000 kms",Petrol
+282,Mahindra XUV500,Mahindra,2016-01-01,1130000,"72,000 kms",Diesel
+283,Tata Indigo eCS,Tata,2014-01-01,250000,"40,000 kms",Diesel
+284,Skoda Rapid Elegance,Skoda,2013-01-01,340000,"48,000 kms",Diesel
+285,Tata Vista Quadrajet,Tata,2011-01-01,120000,"90,000 kms",Diesel
+286,Maruti Suzuki Alto,Maruti,2015-01-01,265000,"12,000 kms",Petrol
+287,Maruti Suzuki Zen,Maruti,2003-01-01,85000,"69,900 kms",Petrol
+288,Hyundai i10 Magna,Hyundai,2011-01-01,175000,"45,000 kms",Petrol
+289,Maruti Suzuki Swift,Maruti,2016-01-01,350000,"1,66,000 kms",Diesel
+290,Honda City ZX,Honda,2008-01-01,149000,"42,000 kms",Petrol
+291,Mahindra Jeep MM,Mahindra,2006-01-01,425000,122 kms,Diesel
+292,Chevrolet Beat Diesel,Chevrolet,2017-01-01,150000,"62,000 kms",Diesel
+293,Honda City 1.5,Honda,2010-01-01,225000,"70,000 kms",Petrol
+294,Hyundai Verna 1.4,Hyundai,2014-01-01,375000,"36,000 kms",Petrol
+295,Toyota Innova 2.5,Toyota,2012-01-01,770000,0 kms,Diesel
+296,Maruti Suzuki Maruti,Maruti,1995-01-01,30000,"55,000 kms",Petrol
+297,Maruti Suzuki Swift,Maruti,2014-01-01,335000,"55,000 kms",Diesel
+298,Hyundai Elite i20,Hyundai,2015-01-01,450000,"20,000 kms",Diesel
+299,Maruti Suzuki Swift,Maruti,2012-01-01,225000,"40,000 kms",Petrol
+300,Maruti Suzuki Versa,Maruti,2004-01-01,80000,"50,000 kms",Petrol
+301,Tata Indigo LX,Tata,2016-01-01,130000,"1,04,000 kms",Diesel
+302,Volkswagen Vento Konekt,Volkswagen,2011-01-01,245000,"65,000 kms",Diesel
+303,Mercedes Benz C,Mercedes,2002-01-01,399000,"41,000 kms",Petrol
+304,Maruti Suzuki Ertiga,Maruti,2013-01-01,450000,"90,000 kms",Diesel
+305,Honda City,Honda,2000-01-01,65000,"80,000 kms",Petrol
+306,Hyundai Santro Xing,Hyundai,2006-01-01,75000,"46,000 kms",Petrol
+307,Maruti Suzuki Omni,Maruti,2001-01-01,70000,"70,000 kms",Petrol
+308,Hyundai Sonata Transform,Hyundai,2017-01-01,190000,"36,469 kms",Diesel
+309,Hyundai Elite i20,Hyundai,2018-01-01,600000,"7,800 kms",Petrol
+310,Maruti Suzuki Alto,Maruti,2017-01-01,240000,"60,000 kms",Petrol
+311,Maruti Suzuki Alto,Maruti,2011-01-01,155000,"32,000 kms",Petrol
+312,Honda Jazz S,Honda,2009-01-01,169999,"24,695 kms",Petrol
+313,Hyundai Grand i10,Hyundai,2017-01-01,450000,"15,141 kms",Petrol
+314,Maruti Suzuki Zen,Maruti,2001-01-01,40000,"40,000 kms",Petrol
+315,Mahindra Scorpio W,Mahindra,2012-01-01,165000,"65,000 kms",Diesel
+316,Maruti Suzuki Alto,Maruti,2014-01-01,270000,"22,000 kms",Petrol
+317,Hyundai Grand i10,Hyundai,2016-01-01,280000,"59,910 kms",Diesel
+318,Mahindra XUV500 W8,Mahindra,2012-01-01,560000,"1,00,000 kms",Diesel
+319,Hyundai Creta 1.6,Hyundai,2016-01-01,950000,"25,000 kms",Petrol
+320,Hyundai i20 Magna,Hyundai,2013-01-01,310000,"35,000 kms",Petrol
+321,Renault Duster 85,Renault,2015-01-01,715000,"65,000 kms",Diesel
+322,Hyundai Grand i10,Hyundai,2014-01-01,340000,"35,000 kms",Petrol
+323,Honda Brio V,Honda,2012-01-01,235000,"33,000 kms",Petrol
+324,Mahindra TUV300 T4,Mahindra,2017-01-01,610000,"68,000 kms",Diesel
+325,Chevrolet Spark LS,Chevrolet,2010-01-01,95000,"23,000 kms",Petrol
+326,Mahindra TUV300 T8,Mahindra,2018-01-01,1000000,"4,500 kms",Diesel
+327,Maruti Suzuki Swift,Maruti,2015-01-01,220000,"1,29,000 kms",Diesel
+328,Nissan X Trail,Nissan,2019-01-01,1200000,300 kms,Diesel
+329,Maruti Suzuki Alto,Maruti,2015-01-01,230000,"5,000 kms",Petrol
+330,Ford Ikon 1.3,Ford,2001-01-01,45000,"65,000 kms",Petrol
+331,Toyota Fortuner 3.0,Toyota,2010-01-01,940000,"1,31,000 kms",Diesel
+332,Tata Manza ELAN,Tata,2010-01-01,155555,"1,11,111 kms",Petrol
+333,Mercedes Benz A,Mercedes,2013-01-01,1500000,"14,000 kms",Petrol
+334,Chevrolet Beat LS,Chevrolet,2016-01-01,210000,"22,000 kms",Diesel
+335,Ford EcoSport Trend,Ford,2013-01-01,495000,"38,000 kms",Diesel
+336,Tata Indigo LS,Tata,2016-01-01,125000,"70,000 kms",Diesel
+337,Hyundai i20 Magna,Hyundai,2010-01-01,195000,"36,000 kms",Petrol
+338,Volkswagen Vento Highline,Volkswagen,2015-01-01,550000,"34,000 kms",Diesel
+339,Renault Kwid RXT,Renault,2015-01-01,270000,"43,000 kms",Petrol
+340,Ford EcoSport Titanium,Ford,2014-01-01,500000,"40,000 kms",Diesel
+341,Honda Amaze 1.5,Honda,2016-01-01,240000,"1,60,000 kms",Diesel
+342,Hyundai Verna 1.6,Hyundai,2017-01-01,800000,"12,000 kms",Petrol
+343,BMW 5 Series,BMW,2011-01-01,1299000,"49,000 kms",Diesel
+344,Skoda Superb 1.8,Skoda,2011-01-01,530000,"68,000 kms",Petrol
+345,Audi Q3 2.0,Audi,2013-01-01,1499000,"37,000 kms",Diesel
+346,Mahindra Bolero DI,Mahindra,2012-01-01,220000,"59,466 kms",Diesel
+347,Ford Figo Duratorq,Ford,2012-01-01,250000,"99,000 kms",Diesel
+348,Maruti Suzuki Wagon,Maruti,2018-01-01,395000,"25,500 kms",Petrol
+349,Mahindra Logan Diesel,Mahindra,2009-01-01,130000,"66,000 kms",Petrol
+350,Tata Nano GenX,Tata,2010-01-01,32000,"44,005 kms",Petrol
+351,Mahindra TUV300 T4,Mahindra,2016-01-01,540000,"35,000 kms",Diesel
+352,Hyundai Elite i20,Hyundai,2015-01-01,405000,"28,000 kms",Petrol
+353,Hyundai Elite i20,Hyundai,2015-01-01,400000,"30,000 kms",Petrol
+354,Honda City SV,Honda,2017-01-01,760000,"4,000 kms",Petrol
+355,Maruti Suzuki Baleno,Maruti,2016-01-01,500000,"28,000 kms",Petrol
+356,Ford Figo Petrol,Ford,2011-01-01,175000,"75,000 kms",Petrol
+357,Honda City,Honda,2017-01-01,750000,"3,000 kms",Petrol
+358,Hyundai Elite i20,Hyundai,2015-01-01,419000,"20,000 kms",Petrol
+359,Maruti Suzuki Versa,Maruti,2004-01-01,90000,"50,000 kms",Petrol
+360,Hyundai Eon Era,Hyundai,2018-01-01,140000,"2,110 kms",Petrol
+361,Mitsubishi Pajero Sport,Mitsubishi,2015-01-01,1540000,"43,222 kms",Petrol
+362,Hyundai i10 Magna,Hyundai,2008-01-01,275000,"1,00,200 kms",Petrol
+363,Toyota Corolla H2,Toyota,2003-01-01,150000,"1,00,000 kms",Petrol
+364,Maruti Suzuki Swift,Maruti,2011-01-01,230000,65 kms,Petrol
+365,Tata Indigo CS,Tata,2015-01-01,123000,"1,00,000 kms",Diesel
+366,Hyundai Xcent Base,Hyundai,2016-01-01,300000,"1,40,000 kms",Diesel
+367,Hyundai Accent Executive,Hyundai,2009-01-01,165000,"48,000 kms",Petrol
+368,Maruti Suzuki Baleno,Maruti,2016-01-01,498000,"22,000 kms",Petrol
+369,Tata Zest XE,Tata,2018-01-01,480000,"1,03,553 kms",Diesel
+370,Maruti Suzuki Dzire,Maruti,2017-01-01,488000,"80,000 kms",Diesel
+371,Tata Sumo Gold,Tata,2014-01-01,250000,"99,000 kms",Diesel
+372,Toyota Corolla Altis,Toyota,2010-01-01,220000,"58,000 kms",Petrol
+373,Maruti Suzuki Eeco,Maruti,2013-01-01,290000,"70,000 kms",LPG
+374,Toyota Fortuner 3.0,Toyota,2015-01-01,1525000,"1,20,000 kms",Diesel
+375,Mahindra XUV500 W6,Mahindra,2013-01-01,548900,"49,800 kms",Diesel
+376,Tata Tigor Revotron,Tata,2019-01-01,650000,100 kms,Diesel
+377,Maruti Suzuki 800,Maruti,2001-01-01,55000,"81,876 kms",Petrol
+378,Maruti Suzuki Ertiga,Maruti,2015-01-01,550000,"75,000 kms",Petrol
+379,Honda Mobilio S,Honda,2014-01-01,399000,"44,000 kms",Diesel
+380,Maruti Suzuki Ertiga,Maruti,2016-01-01,730000,"55,000 kms",Diesel
+381,Maruti Suzuki Vitara,Maruti,2017-01-01,725000,"36,000 kms",Diesel
+382,Hyundai Verna 1.6,Hyundai,2016-01-01,195000,"56,000 kms",Diesel
+383,Maruti Suzuki Swift,Maruti,2007-01-01,130000,"62,000 kms",Petrol
+384,Maruti Suzuki Omni,Maruti,2014-01-01,190000,"6,020 kms",Petrol
+385,Honda Amaze,Honda,2013-01-01,250000,"55,700 kms",Diesel
+386,Tata Indica,Tata,2005-01-01,80000,"42,000 kms",Petrol
+387,Hyundai Santro Xing,Hyundai,2003-01-01,120000,"50,000 kms",Petrol
+388,Maruti Suzuki Zen,Maruti,2010-01-01,149000,"35,000 kms",Petrol
+389,Maruti Suzuki Wagon,Maruti,2014-01-01,250000,"18,500 kms",Petrol
+390,Maruti Suzuki Wagon,Maruti,2007-01-01,120000,"7,000 kms",Petrol
+391,Honda Brio VX,Honda,2017-01-01,450000,"11,000 kms",Petrol
+392,Maruti Suzuki Zen,Maruti,2003-01-01,99999,"53,000 kms",Petrol
+393,Maruti Suzuki Zen,Maruti,2008-01-01,135000,"23,000 kms",Petrol
+394,Maruti Suzuki Wagon,Maruti,2016-01-01,225000,"35,500 kms",Diesel
+395,Maruti Suzuki Alto,Maruti,2010-01-01,99000,"22,134 kms",Petrol
+396,Renault Kwid RXT,Renault,2019-01-01,370000,"1,000 kms",Petrol
+397,Tata Nano Lx,Tata,2010-01-01,52000,"9,000 kms",Petrol
+398,Jaguar XE XE,Jaguar,2016-01-01,2800000,"8,500 kms",Petrol
+399,Hyundai Eon Magna,Hyundai,2014-01-01,190000,"35,000 kms",Petrol
+400,Honda City 1.5,Honda,2014-01-01,499000,"22,000 kms",Petrol
+401,Hindustan Motors Ambassador,Hindustan,2002-01-01,90000,"25,000 kms",Diesel
+402,Maruti Suzuki Ritz,Maruti,2010-01-01,149000,"40,000 kms",Petrol
+403,Hyundai Grand i10,Hyundai,2017-01-01,400000,"20,000 kms",Petrol
+404,Hyundai Eon D,Hyundai,2016-01-01,120000,"87,000 kms",Petrol
+405,Maruti Suzuki Swift,Maruti,2015-01-01,250000,"55,000 kms",Petrol
+406,Maruti Suzuki Wagon,Maruti,2017-01-01,375000,"23,000 kms",Petrol
+407,Honda Amaze 1.2,Honda,2014-01-01,381000,"6,000 kms",Petrol
+408,Maruti Suzuki Estilo,Maruti,2013-01-01,180000,"65,000 kms",Petrol
+409,Maruti Suzuki Vitara,Maruti,2016-01-01,580000,"25,000 kms",Diesel
+410,Maruti Suzuki Eeco,Maruti,2015-01-01,278000,"39,000 kms",Petrol
+411,Hyundai Creta 1.6,Hyundai,2016-01-01,1000000,"8,000 kms",Petrol
+412,Mahindra Scorpio Vlx,Mahindra,2013-01-01,690000,"75,000 kms",Diesel
+413,Maruti Suzuki Ertiga,Maruti,2012-01-01,480000,"51,000 kms",Diesel
+414,Mitsubishi Lancer 1.8,Mitsubishi,2006-01-01,85000,"50,000 kms",Petrol
+415,Maruti Suzuki Maruti,Maruti,2001-01-01,40000,"75,000 kms",Petrol
+416,Maruti Suzuki Alto,Maruti,2015-01-01,90000,"55,800 kms",Petrol
+417,Hyundai Grand i10,Hyundai,2015-01-01,340000,"53,000 kms",Petrol
+418,Hyundai Eon D,Hyundai,2018-01-01,260000,"25,000 kms",Petrol
+419,Ford Fiesta SXi,Ford,2009-01-01,250000,"56,400 kms",Petrol
+420,Maruti Suzuki Ritz,Maruti,2010-01-01,180000,"72,160 kms",Diesel
+421,Hyundai Verna Fluidic,Hyundai,2012-01-01,350000,"10,000 kms",Diesel
+422,Maruti Suzuki Wagon,Maruti,2006-01-01,90001,"48,000 kms",Petrol
+423,Maruti Suzuki Estilo,Maruti,2007-01-01,115000,"36,000 kms",Petrol
+424,Audi A6 2.0,Audi,2012-01-01,1599000,"11,500 kms",Diesel
+425,Maruti Suzuki Wagon,Maruti,2003-01-01,130000,"1,33,000 kms",Petrol
+426,Maruti Suzuki Wagon,Maruti,2009-01-01,159000,"27,000 kms",Petrol
+427,Maruti Suzuki Wagon,Maruti,2009-01-01,160000,"35,000 kms",Petrol
+428,Maruti Suzuki Alto,Maruti,2010-01-01,110000,"55,000 kms",Petrol
+429,Maruti Suzuki Baleno,Maruti,2016-01-01,425000,"40,000 kms",Petrol
+430,Hyundai Verna 1.6,Hyundai,2019-01-01,900000,"2,000 kms",Petrol
+431,Maruti Suzuki Swift,Maruti,2009-01-01,150000,"45,000 kms",Petrol
+432,Hyundai Getz Prime,Hyundai,2009-01-01,110000,"20,000 kms",Petrol
+433,Hyundai Santro,Hyundai,2000-01-01,51999,"88,000 kms",Petrol
+434,Hyundai Getz Prime,Hyundai,2009-01-01,115000,"20,000 kms",Petrol
+435,Chevrolet Beat PS,Chevrolet,2012-01-01,215000,"65,422 kms",Diesel
+436,Ford EcoSport Trend,Ford,2017-01-01,580000,"10,000 kms",Petrol
+437,Maruti Suzuki Dzire,Maruti,2013-01-01,380000,"35,000 kms",Petrol
+438,Hyundai Fluidic Verna,Hyundai,2013-01-01,350000,"1,17,000 kms",Diesel
+439,Tata Indica V2,Tata,2005-01-01,35000,"1,50,000 kms",Diesel
+440,BMW X1 xDrive20d,BMW,2011-01-01,1150000,"72,000 kms",Diesel
+441,Hyundai i20 Asta,Hyundai,2010-01-01,300000,"10,750 kms",Petrol
+442,Honda City 1.5,Honda,2009-01-01,269000,"55,000 kms",Petrol
+443,Tata Nano,Tata,2013-01-01,60000,"6,800 kms",Petrol
+444,Chevrolet Cruze LTZ,Chevrolet,2014-01-01,400000,"41,000 kms",Diesel
+445,Hyundai Verna Fluidic,Hyundai,2015-01-01,430000,"73,000 kms",Diesel
+446,Maruti Suzuki Swift,Maruti,2011-01-01,140000,"65,000 kms",Diesel
+447,Mahindra XUV500 W6,Mahindra,2014-01-01,8500003,"45,000 kms",Diesel
+448,Mahindra XUV500 W10,Mahindra,2018-01-01,1299000,"40,000 kms",Diesel
+449,Maruti Suzuki Alto,Maruti,2014-01-01,199000,"37,000 kms",Petrol
+450,Hyundai Accent GLE,Hyundai,2006-01-01,90000,"55,000 kms",Petrol
+451,Force Motors One,Force,2013-01-01,550000,"1,40,000 kms",Diesel
+452,Maruti Suzuki Alto,Maruti,2019-01-01,265000,"9,800 kms",Petrol
+453,Chevrolet Spark 1.0,Chevrolet,2011-01-01,100000,"27,000 kms",Petrol
+454,Hyundai i10,Hyundai,2009-01-01,215000,"27,000 kms",Petrol
+455,Toyota Etios Liva,Toyota,2012-01-01,380000,"20,000 kms",Diesel
+456,Renault Duster 85PS,Renault,2013-01-01,401919,"57,923 kms",Diesel
+457,Chevrolet Enjoy,Chevrolet,2014-01-01,490000,"30,201 kms",Diesel
+458,Maruti Suzuki Alto,Maruti,2017-01-01,280000,"6,200 kms",Petrol
+459,BMW 5 Series,BMW,2009-01-01,650000,"37,518 kms",Petrol
+460,Toyota Etios Liva,Toyota,2014-01-01,160000,"24,652 kms",Petrol
+461,Mahindra Jeep MM,Mahindra,2004-01-01,424000,383 kms,Diesel
+462,Chevrolet Beat LS,Chevrolet,2016-01-01,225000,"95,000 kms",Diesel
+463,Chevrolet Cruze LTZ,Chevrolet,2011-01-01,350000,"35,000 kms",Diesel
+464,Jeep Wrangler Unlimited,Jeep,2015-01-01,950000,"3,528 kms",Diesel
+465,Maruti Suzuki Ertiga,Maruti,2013-01-01,485000,"52,500 kms",Diesel
+466,Hyundai Verna VGT,Hyundai,2010-01-01,205000,"47,900 kms",Diesel
+467,Maruti Suzuki Omni,Maruti,2012-01-01,160000,"14,000 kms",Petrol
+468,Maruti Suzuki Celerio,Maruti,2018-01-01,310000,"37,000 kms",Petrol
+469,Tata Zest Quadrajet,Tata,2017-01-01,180000,"90,000 kms",Diesel
+470,Mahindra XUV500 W6,Mahindra,2013-01-01,549900,"52,800 kms",Diesel
+471,Tata Indigo CS,Tata,2016-01-01,150000,"1,04,000 kms",Diesel
+472,Hyundai i10 Era,Hyundai,2011-01-01,175000,"30,000 kms",Petrol
+473,Tata Indigo eCS,Tata,2014-01-01,95000,"1,95,000 kms",Diesel
+474,Tata Indigo LX,Tata,2016-01-01,230000,"1,04,000 kms",Diesel
+475,Tata Indigo eCS,Tata,2016-01-01,230000,"1,04,000 kms",Diesel
+476,Tata Indigo Marina,Tata,2004-01-01,180000,"70,000 kms",Diesel
+477,Hyundai Xcent SX,Hyundai,2015-01-01,400000,"43,000 kms",Diesel
+478,Hyundai Eon Magna,Hyundai,2013-01-01,185000,"23,000 kms",Petrol
+479,Renault Duster 85,Renault,2015-01-01,385000,"51,000 kms",Diesel
+480,Maruti Suzuki Alto,Maruti,2009-01-01,90000,"62,000 kms",Petrol
+481,Tata Nano LX,Tata,2010-01-01,32000,"48,008 kms",Petrol
+482,Renault Duster 110,Renault,2013-01-01,435000,"39,000 kms",Diesel
+483,Maruti Suzuki Wagon,Maruti,2010-01-01,225000,"40,000 kms",Petrol
+484,Maruti Suzuki Swift,Maruti,2006-01-01,189700,"48,247 kms",Petrol
+485,Maruti Suzuki Ertiga,Maruti,2012-01-01,389700,"39,000 kms",Diesel
+486,Maruti Suzuki Swift,Maruti,2014-01-01,365000,"23,000 kms",Petrol
+487,Maruti Suzuki Alto,Maruti,2017-01-01,360000,"9,400 kms",Petrol
+488,Hyundai i20 Magna,Hyundai,2010-01-01,210000,"50,000 kms",Petrol
+489,Hyundai i10 Magna,Hyundai,2009-01-01,170000,"75,000 kms",Petrol
+490,Tata Zest XE,Tata,2017-01-01,380000,"70,000 kms",Diesel
+491,Mahindra Xylo E8,Mahindra,2009-01-01,295000,"64,000 kms",Diesel
+492,Toyota Corolla Altis,Toyota,2010-01-01,185000,"55,000 kms",Petrol
+493,Tata Manza Aqua,Tata,2014-01-01,160000,"2,00,000 kms",Diesel
+494,Renault Kwid 1.0,Renault,2018-01-01,290000,"2,137 kms",Petrol
+495,Tata Venture EX,Tata,2013-01-01,100000,"30,000 kms",Diesel
+496,Maruti Suzuki Swift,Maruti,2014-01-01,315000,"44,000 kms",Petrol
+497,Skoda Octavia Classic,Skoda,2006-01-01,114990,"65,000 kms",Diesel
+498,Maruti Suzuki Omni,Maruti,2012-01-01,120000,"1,60,000 kms",LPG
+499,Chevrolet Beat Diesel,Chevrolet,2011-01-01,125000,"56,000 kms",Diesel
+500,Tata Sumo Gold,Tata,2012-01-01,210000,"75,000 kms",Diesel
+501,Hyundai Verna 1.6,Hyundai,2018-01-01,855000,"42,000 kms",Diesel
+502,Mahindra Scorpio 2.6,Mahindra,2007-01-01,260000,"56,000 kms",Diesel
+503,Maruti Suzuki Zen,Maruti,2002-01-01,95000,"10,544 kms",Petrol
+504,Maruti Suzuki Swift,Maruti,2011-01-01,255000,"64,000 kms",Petrol
+505,Mahindra Scorpio SLX,Mahindra,2008-01-01,300000,"70,000 kms",Diesel
+506,Hyundai Grand i10,Hyundai,2014-01-01,340000,"25,000 kms",Petrol
+507,Hyundai Elite i20,Hyundai,2017-01-01,550000,"15,000 kms",Petrol
+508,Ford Ikon 1.6,Ford,2003-01-01,60000,"50,000 kms",Petrol
+509,Toyota Innova 2.5,Toyota,2011-01-01,750000,"1,47,000 kms",Diesel
+510,Nissan Sunny XL,Nissan,2011-01-01,230000,"52,000 kms",Petrol
+511,Chevrolet Beat LT,Chevrolet,2012-01-01,130000,"90,001 kms",Diesel
+512,Maruti Suzuki Alto,Maruti,2017-01-01,270000,"21,000 kms",Petrol
+513,Maruti Suzuki Swift,Maruti,2012-01-01,280000,"48,006 kms",Diesel
+514,Maruti Suzuki Swift,Maruti,2012-01-01,280000,"48,006 kms",Diesel
+515,Toyota Innova 2.0,Toyota,2012-01-01,600000,"80,000 kms",Diesel
+516,Maruti Suzuki Swift,Maruti,2010-01-01,190000,"74,000 kms",Diesel
+517,Hyundai Elite i20,Hyundai,2015-01-01,500000,"22,000 kms",Petrol
+518,Mahindra XUV500 W10,Mahindra,2016-01-01,1065000,"41,000 kms",Diesel
+519,Volkswagen Polo Trendline,Volkswagen,2015-01-01,350000,"25,000 kms",Diesel
+520,Toyota Etios Liva,Toyota,2012-01-01,350000,"85,000 kms",Diesel
+521,Mahindra TUV300 T4,Mahindra,2016-01-01,540000,"29,500 kms",Diesel
+522,Hyundai Elite i20,Hyundai,2015-01-01,470000,"30,000 kms",Petrol
+523,Hyundai Santro Xing,Hyundai,2014-01-01,179000,"57,000 kms",Petrol
+524,Maruti Suzuki Zen,Maruti,2003-01-01,48000,"60,000 kms",Petrol
+525,Maruti Suzuki Ciaz,Maruti,2016-01-01,650000,"50,000 kms",Petrol
+526,Hyundai Eon Era,Hyundai,2013-01-01,190000,"39,700 kms",Petrol
+527,Hyundai Elantra 1.8,Hyundai,2012-01-01,500000,"65,000 kms",Petrol
+528,Maruti Suzuki Swift,Maruti,2010-01-01,270000,"67,000 kms",Diesel
+529,Maruti Suzuki Zen,Maruti,2008-01-01,125000,"46,000 kms",Petrol
+530,Hyundai Eon Era,Hyundai,2012-01-01,188000,"38,000 kms",Petrol
+531,Hyundai Grand i10,Hyundai,2016-01-01,380000,"27,000 kms",Petrol
+532,Hyundai Verna Fluidic,Hyundai,2011-01-01,365000,"43,000 kms",Diesel
+533,Ford EcoSport Trend,Ford,2014-01-01,465000,"47,000 kms",Petrol
+534,Hyundai i20 Magna,Hyundai,2011-01-01,240000,"42,000 kms",Petrol
+535,Chevrolet Beat Diesel,Chevrolet,2016-01-01,179999,"19,336 kms",Diesel
+536,Tata Indica eV2,Tata,2015-01-01,140000,"60,105 kms",Diesel
+537,Jaguar XF 2.2,Jaguar,2013-01-01,2190000,"29,000 kms",Diesel
+538,Audi Q5 2.0,Audi,2014-01-01,2390000,"34,000 kms",Diesel
+539,BMW 3 Series,BMW,2011-01-01,1075000,"35,000 kms",Diesel
+540,Maruti Suzuki Swift,Maruti,2015-01-01,475000,"22,000 kms",Petrol
+541,BMW X1 sDrive20d,BMW,2012-01-01,1025000,"41,000 kms",Diesel
+542,Maruti Suzuki S,Maruti,2016-01-01,615000,"21,000 kms",Diesel
+543,Maruti Suzuki Ertiga,Maruti,2013-01-01,475000,"48,000 kms",Diesel
+544,Maruti Suzuki Alto,Maruti,2016-01-01,270000,"38,000 kms",Petrol
+545,Honda City SV,Honda,2014-01-01,475000,"34,000 kms",Diesel
+546,Volkswagen Vento Comfortline,Volkswagen,2011-01-01,240000,"45,933 kms",Petrol
+547,Honda City 1.5,Honda,2005-01-01,120000,"68,000 kms",Petrol
+548,Audi A4 2.0,Audi,2016-01-01,1900000,"44,000 kms",Diesel
+549,Mahindra KUV100,Mahindra,2017-01-01,360000,"35,000 kms",Diesel
+550,Tata Zest XE,Tata,2018-01-01,450000,"1,02,563 kms",Diesel
+551,Mahindra XUV500 W8,Mahindra,2015-01-01,900000,"28,600 kms",Diesel
+552,Maruti Suzuki Swift,Maruti,2017-01-01,650000,"41,800 kms",Diesel
+553,Tata Sumo Gold,Tata,2014-01-01,275000,"1,16,000 kms",Diesel
+554,Maruti Suzuki Swift,Maruti,2009-01-01,210000,"59,000 kms",Petrol
+555,Mahindra Scorpio 2.6,Mahindra,2004-01-01,175000,"58,000 kms",Diesel
+556,Maruti Suzuki Omni,Maruti,2009-01-01,85000,"45,000 kms",Petrol
+557,Mitsubishi Pajero Sport,Mitsubishi,2015-01-01,1490000,"42,590 kms",Diesel
+558,Renault Duster,Renault,2014-01-01,800000,"7,400 kms",Diesel
+559,Volkswagen Jetta Comfortline,Volkswagen,2009-01-01,450000,"54,500 kms",Diesel
+560,Maruti Suzuki Ertiga,Maruti,2012-01-01,1000000,"2,00,000 kms",Diesel
+561,Audi A4 2.0,Audi,2013-01-01,1510000,"27,000 kms",Diesel
+562,Volvo S80 Summum,Volvo,2015-01-01,1850000,"42,000 kms",Diesel
+563,Toyota Corolla Altis,Toyota,2014-01-01,790000,"29,000 kms",Petrol
+564,Mitsubishi Pajero Sport,Mitsubishi,2015-01-01,1725000,"37,000 kms",Diesel
+565,Chevrolet Beat LT,Chevrolet,2012-01-01,135000,"36,000 kms",Petrol
+566,BMW X1,BMW,2011-01-01,1000000,"34,000 kms",Diesel
+567,Datsun Redi GO,Datsun,2018-01-01,299999,"7,000 kms",Petrol
+568,Mercedes Benz C,Mercedes,2009-01-01,1225000,"76,000 kms",Diesel
+569,Mahindra Scorpio SLX,Mahindra,2004-01-01,175000,"60,000 kms",Diesel
+570,Volkswagen Vento Comfortline,Volkswagen,2011-01-01,200000,"95,000 kms",Diesel
+571,Tata Indigo CS,Tata,2017-01-01,270000,"50,000 kms",Diesel
+572,Ford Figo Petrol,Ford,2019-01-01,525000,00 kms,Petrol
+573,Honda City ZX,Honda,2006-01-01,180000,"50,000 kms",Petrol
+574,Maruti Suzuki Wagon,Maruti,2008-01-01,140000,"68,000 kms",Petrol
+575,Ford EcoSport Trend,Ford,2014-01-01,400000,"16,000 kms",Petrol
+576,Maruti Suzuki Swift,Maruti,2016-01-01,499000,"51,000 kms",Diesel
+577,Maruti Suzuki Omni,Maruti,2009-01-01,85000,"56,000 kms",Petrol
+578,Maruti Suzuki Zen,Maruti,2004-01-01,70000,"1,00,000 kms",Petrol
+579,Renault Duster RxL,Renault,2015-01-01,550000,"36,000 kms",Petrol
+580,Maruti Suzuki Swift,Maruti,2014-01-01,370000,"11,523 kms",Petrol
+581,Maruti Suzuki Baleno,Maruti,2018-01-01,690000,"1,000 kms",Petrol
+582,Honda WR V,Honda,2009-01-01,250000,"60,000 kms",Petrol
+583,Tata Indigo CS,Tata,2016-01-01,110000,"85,000 kms",Diesel
+584,Renault Duster 110,Renault,2013-01-01,490000,"38,600 kms",Diesel
+585,Mahindra Scorpio LX,Mahindra,2009-01-01,320000,"95,500 kms",Diesel
+586,Maruti Suzuki Zen,Maruti,2004-01-01,68000,"56,000 kms",Petrol
+587,Maruti Suzuki Wagon,Maruti,2014-01-01,130000,"37,458 kms",Petrol
+588,Maruti Suzuki SX4,Maruti,2016-01-01,970000,"85,960 kms",Diesel
+589,Audi A3 Cabriolet,Audi,2015-01-01,3100000,"12,516 kms",Petrol
+590,Hyundai Eon D,Hyundai,2018-01-01,280000,"35,000 kms",Petrol
+591,Maruti Suzuki Zen,Maruti,2009-01-01,125000,00 kms,Petrol
+592,Mahindra Scorpio SLX,Mahindra,2008-01-01,285000,"80,000 kms",Diesel
+593,Hyundai Santro AE,Hyundai,2011-01-01,165000,"45,000 kms",Petrol
+594,Maruti Suzuki Swift,Maruti,2009-01-01,250000,"51,000 kms",Diesel
+595,Mahindra Xylo D2,Mahindra,2011-01-01,390000,"48,000 kms",Diesel
+596,Hyundai Santro,Hyundai,2003-01-01,60000,"51,000 kms",Petrol
+597,Chevrolet Beat LT,Chevrolet,2015-01-01,215000,"90,000 kms",Diesel
+598,Maruti Suzuki Swift,Maruti,2015-01-01,475000,"43,000 kms",Diesel
+599,Mahindra XUV500 W8,Mahindra,2015-01-01,899000,"53,000 kms",Diesel
+600,Toyota Fortuner 3.0,Toyota,2013-01-01,1499000,"97,000 kms",Diesel
+601,Maruti Suzuki Alto,Maruti,2013-01-01,240000,"20,000 kms",Petrol
+602,Hyundai Getz GLE,Hyundai,2007-01-01,99000,"55,000 kms",Petrol
+603,Maruti Suzuki Swift,Maruti,2014-01-01,260000,"1,20,000 kms",Diesel
+604,Hyundai Creta 1.6,Hyundai,2019-01-01,1200000,0 kms,Petrol
+605,Hyundai Santro Xing,Hyundai,2007-01-01,115000,"46,000 kms",Petrol
+606,Hyundai Santro Xing,Hyundai,2009-01-01,88000,"43,200 kms",Petrol
+607,Mahindra Xylo D2,Mahindra,2011-01-01,390000,"56,000 kms",Diesel
+608,Hyundai Santro Xing,Hyundai,2007-01-01,135000,"42,000 kms",Petrol
+609,Tata Indica V2,Tata,2009-01-01,90000,"30,600 kms",Diesel
+610,Hyundai i10 Sportz,Hyundai,2011-01-01,220000,"38,000 kms",Petrol
+611,Hyundai Grand i10,Hyundai,2017-01-01,424999,"2,550 kms",Petrol
+612,Hyundai Santro Xing,Hyundai,2007-01-01,135000,"47,000 kms",Petrol
+613,Honda City 1.5,Honda,2005-01-01,95000,"41,000 kms",Petrol
+614,Nissan Micra XL,Nissan,2017-01-01,430000,"62,500 kms",Diesel
+615,Honda City 1.5,Honda,2005-01-01,115000,"68,000 kms",Petrol
+616,Maruti Suzuki Alto,Maruti,2015-01-01,215000,"50,000 kms",Petrol
+617,Maruti Suzuki Wagon,Maruti,2004-01-01,53000,"69,000 kms",Petrol
+618,Maruti Suzuki Ertiga,Maruti,2012-01-01,500000,"48,000 kms",Diesel
+619,Tata Indica eV2,Tata,2012-01-01,85000,"55,000 kms",Diesel
+620,Maruti Suzuki Omni,Maruti,2013-01-01,165000,"25,000 kms",Petrol
+621,Hyundai Eon Era,Hyundai,2014-01-01,200000,"28,400 kms",Petrol
+622,Hyundai Eon,Hyundai,2014-01-01,200000,"28,000 kms",Petrol
+623,Maruti Suzuki Swift,Maruti,2015-01-01,425000,"42,000 kms",Diesel
+624,Hyundai Verna 1.6,Hyundai,2012-01-01,600000,"29,000 kms",Diesel
+625,Chevrolet Tavera LS,Chevrolet,2005-01-01,130000,"68,485 kms",Diesel
+626,Tata Tiago Revotron,Tata,2018-01-01,430000,"3,500 kms",Petrol
+627,Tata Tiago Revotorq,Tata,2019-01-01,568500,0 kms,Petrol
+628,Maruti Suzuki Zen,Maruti,2006-01-01,71000,"32,000 kms",Petrol
+629,Mahindra KUV100 K8,Mahindra,2018-01-01,560000,"8,000 kms",Diesel
+630,Ford EcoSport Titanium,Ford,2014-01-01,590000,"34,000 kms",Diesel
+631,Hindustan Motors Ambassador,Hindustan,1995-01-01,750000,"37,000 kms",Petrol
+632,Ford Fusion 1.4,Ford,2007-01-01,125000,"85,455 kms",Diesel
+633,Hyundai Santro Xing,Hyundai,2007-01-01,135000,"46,000 kms",Petrol
+634,Hyundai Santro,Hyundai,2002-01-01,60000,"47,000 kms",Petrol
+635,Fiat Linea Emotion,Fiat,2009-01-01,120000,"64,000 kms",Petrol
+636,Ford Ikon 1.3,Ford,2008-01-01,95000,"46,000 kms",Petrol
+637,Maruti Suzuki Omni,Maruti,2017-01-01,240000,"8,000 kms",Petrol
+638,Tata Indica V2,Tata,2012-01-01,115000,"64,000 kms",Diesel
+639,Mahindra Scorpio S4,Mahindra,2015-01-01,795000,"63,000 kms",Diesel
+640,Hyundai Santro Xing,Hyundai,2007-01-01,55000,"65,000 kms",Petrol
+641,Mahindra Xylo D2,Mahindra,2009-01-01,300000,"62,000 kms",Diesel
+642,Hyundai Grand i10,Hyundai,2014-01-01,320000,"41,000 kms",Petrol
+643,Maruti Suzuki Alto,Maruti,2015-01-01,265000,"14,000 kms",Petrol
+644,Toyota Corolla,Toyota,2006-01-01,160000,"40,000 kms",Petrol
+645,Hyundai Eon Magna,Hyundai,2017-01-01,300000,"1,600 kms",Petrol
+646,Tata Sumo Grande,Tata,2010-01-01,130000,"90,000 kms",Diesel
+647,Maruti Suzuki Swift,Maruti,2011-01-01,250000,"58,000 kms",Diesel
+648,Volkswagen Polo Highline1.2L,Volkswagen,2013-01-01,380000,"27,000 kms",Petrol
+649,Maruti Suzuki Alto,Maruti,2003-01-01,42000,"60,000 kms",Petrol
+650,Tata Tiago Revotron,Tata,2017-01-01,400000,"31,000 kms",Petrol
+651,Maruti Suzuki Swift,Maruti,2009-01-01,120000,"90,000 kms",Diesel
+652,Maruti Suzuki Swift,Maruti,2009-01-01,120000,"90,000 kms",Diesel
+653,Tata Indigo eCS,Tata,2016-01-01,130000,"1,50,000 kms",Diesel
+654,Chevrolet Beat LS,Chevrolet,2014-01-01,189000,"31,000 kms",Diesel
+655,Mahindra Xylo E8,Mahindra,2011-01-01,365000,"43,000 kms",Diesel
+656,Hyundai Eon D,Hyundai,2013-01-01,170000,"20,000 kms",Petrol
+657,Tata Sumo Gold,Tata,2013-01-01,215000,"1,00,000 kms",Petrol
+658,Tata Nano,Tata,2013-01-01,60000,"7,000 kms",Petrol
+659,Hyundai Elite i20,Hyundai,2017-01-01,599999,"31,000 kms",Petrol
+660,Hyundai i10 Magna,Hyundai,2009-01-01,400000,"33,000 kms",Petrol
+661,Hyundai Creta,Hyundai,2016-01-01,900000,"60,000 kms",Diesel
+662,Volkswagen Polo,Volkswagen,2013-01-01,299999,"48,000 kms",Diesel
+663,Maruti Suzuki Dzire,Maruti,2014-01-01,374999,"33,000 kms",Petrol
+664,Tata Bolt XM,Tata,2015-01-01,600000,"15,000 kms",Petrol
+665,Maruti Suzuki Alto,Maruti,2005-01-01,70000,"47,000 kms",Petrol
+666,Maruti Suzuki Alto,Maruti,2005-01-01,100000,"40,000 kms",Petrol
+667,Maruti Suzuki Ritz,Maruti,2010-01-01,150000,"38,000 kms",Diesel
+668,Maruti Suzuki Alto,Maruti,2017-01-01,225000,"12,500 kms",Petrol
+669,Maruti Suzuki Dzire,Maruti,2009-01-01,210000,"42,000 kms",Petrol
+670,Hyundai i20 Asta,Hyundai,2014-01-01,425000,"31,000 kms",Petrol
+671,Maruti Suzuki Swift,Maruti,2008-01-01,162000,"60,000 kms",Diesel
+672,Tata Indica V2,Tata,2005-01-01,60000,"80,000 kms",Diesel
+673,Mahindra Scorpio VLX,Mahindra,2014-01-01,650000,"77,000 kms",Diesel
+674,Toyota Innova 2.5,Toyota,2012-01-01,750000,"75,000 kms",Diesel
+675,Mahindra Xylo E8,Mahindra,2010-01-01,375000,"40,000 kms",Diesel
+676,Hyundai i20 Magna,Hyundai,2011-01-01,230000,"47,000 kms",Petrol
+677,Maruti Suzuki Omni,Maruti,2000-01-01,35999,"60,000 kms",Petrol
+678,Mahindra KUV100,Mahindra,2016-01-01,380000,"26,500 kms",Petrol
+679,Mahindra KUV100 K8,Mahindra,2019-01-01,560000,"2,875 kms",Petrol
+680,Datsun Go Plus,Datsun,2016-01-01,285000,"13,900 kms",Petrol
+681,Ford Endeavor 4x4,Ford,2019-01-01,2900000,"9,000 kms",Diesel
+682,Tata Indica V2,Tata,2005-01-01,39999,"80,000 kms",Diesel
+683,Hyundai Santro Xing,Hyundai,2006-01-01,85000,"60,000 kms",Petrol
+684,Maruti Suzuki Wagon,Maruti,2016-01-01,395000,"20,000 kms",Petrol
+685,Maruti Suzuki Swift,Maruti,2008-01-01,175000,"58,000 kms",Diesel
+686,Maruti Suzuki Alto,Maruti,2019-01-01,400000,"1,500 kms",Petrol
+687,Toyota Innova 2.5,Toyota,2011-01-01,750000,"75,000 kms",Diesel
+688,Maruti Suzuki Alto,Maruti,2016-01-01,250000,"2,450 kms",Petrol
+689,Maruti Suzuki Alto,Maruti,2019-01-01,425000,"1,625 kms",Petrol
+690,Volkswagen Polo Highline1.2L,Volkswagen,2017-01-01,525000,"45,000 kms",Petrol
+691,Mahindra Logan,Mahindra,2009-01-01,130000,"65,000 kms",Diesel
+692,Maruti Suzuki 800,Maruti,2000-01-01,30000,"33,400 kms",Petrol
+693,Mahindra Scorpio,Mahindra,2011-01-01,475000,"60,123 kms",Diesel
+694,Chevrolet Sail 1.2,Chevrolet,2013-01-01,300000,"28,000 kms",Petrol
+695,Hyundai Santro AE,Hyundai,2003-01-01,60000,"70,000 kms",Petrol
+696,Maruti Suzuki Wagon,Maruti,2006-01-01,100000,"7,000 kms",Petrol
+697,Hyundai Eon,Hyundai,2018-01-01,260000,"25,000 kms",Petrol
+698,Tata Manza,Tata,2015-01-01,100000,"1,00,000 kms",Diesel
+699,Toyota Etios G,Toyota,2013-01-01,265000,"42,000 kms",Petrol
+700,Toyota Qualis,Toyota,2003-01-01,180000,"1,00,000 kms",Diesel
+701,Hyundai Santro Xing,Hyundai,2004-01-01,45000,"1,37,495 kms",Petrol
+702,Tata Indica eV2,Tata,2016-01-01,50500,"91,200 kms",Diesel
+703,Honda City 1.5,Honda,2009-01-01,270000,"55,000 kms",Petrol
+704,Tata Zest XE,Tata,2017-01-01,290000,"1,20,000 kms",Diesel
+705,Mahindra Quanto C4,Mahindra,2013-01-01,325000,"63,000 kms",Diesel
+706,Tata Indigo eCS,Tata,2016-01-01,160000,"1,04,000 kms",Diesel
+707,Maruti Suzuki Swift,Maruti,2016-01-01,350000,"1,46,000 kms",Diesel
+708,Hyundai Elite i20,Hyundai,2011-01-01,290000,"40,000 kms",Petrol
+709,Hyundai i20 Select,Hyundai,2011-01-01,290000,"40,000 kms",Petrol
+710,Chevrolet Tavera Neo,Chevrolet,2007-01-01,465000,"1,00,800 kms",Diesel
+711,Maruti Suzuki Dzire,Maruti,2016-01-01,325000,"1,50,000 kms",Diesel
+712,Hyundai Elite i20,Hyundai,2018-01-01,510000,"2,100 kms",Petrol
+713,Honda City VX,Honda,2016-01-01,860000,"95,000 kms",Petrol
+714,Maruti Suzuki Dzire,Maruti,2016-01-01,450000,"2,500 kms",Diesel
+715,Hyundai Getz,Hyundai,2006-01-01,125000,"80,000 kms",Petrol
+716,Mercedes Benz C,Mercedes,2006-01-01,500001,"15,000 kms",Petrol
+717,Maruti Suzuki Alto,Maruti,2005-01-01,95000,"65,000 kms",Petrol
+718,Skoda Fabia,Skoda,2009-01-01,110000,"45,000 kms",Petrol
+719,Maruti Suzuki Ritz,Maruti,2011-01-01,270000,"50,000 kms",Petrol
+720,Tata Indica V2,Tata,2009-01-01,110000,"30,000 kms",Diesel
+721,Toyota Corolla Altis,Toyota,2009-01-01,300000,"1,32,000 kms",Petrol
+722,Tata Zest XM,Tata,2018-01-01,260000,"27,000 kms",Diesel
+723,Mahindra Quanto C8,Mahindra,2013-01-01,390000,"40,000 kms",Diesel
